@@ -86,7 +86,7 @@ form>input{
 }
 
 .cartdivhide{
-    visibility: visible;
+    visibility: hidden;
     opacity: 0;
 }
 .card-footer{
