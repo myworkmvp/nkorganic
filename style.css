@@ -72,7 +72,7 @@ form>input{
 
 }
 .cartdiv{
-    visibility: hidden;
+    visibility: visible;
     opacity: 1;
     z-index: 1;
     height: auto;
@@ -86,7 +86,7 @@ form>input{
 }
 
 .cartdivhide{
-    visibility: visible;
+    visibility: hidden;
     opacity: 0;
 }
 .card-footer{
